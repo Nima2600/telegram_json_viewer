@@ -1,0 +1,14 @@
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/vahidonline.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/vahidoonline.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/vahidheadline.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/iranintltv.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/mamlekate.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/dejradio.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/dw_persian.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/devyara.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/ircfspace.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/localhost_ir.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/toomajsalehi.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/syntax_fa.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/tehrannetwork021.json
+https://github.com/Nima2600/teleFeed/raw/refs/heads/export/jadivarlog.json
