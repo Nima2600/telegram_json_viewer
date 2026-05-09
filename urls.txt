@@ -4,7 +4,7 @@ https://github.com/Nima2600/teleFeed/raw/refs/heads/export/vahidheadline.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/iranintltv.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/mamlekate.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/dejradio.json
-https://github.com/Nima2600/teleFeed/raw/refs/heads/export/dw_persian.json
+#https://github.com/Nima2600/teleFeed/raw/refs/heads/export/dw_persian.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/devyara.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/ircfspace.json
 https://github.com/Nima2600/teleFeed/raw/refs/heads/export/localhost_ir.json
